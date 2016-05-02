@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./extractsfromlivy01livyuoft_0006.png"; bbox 0 0 1663 2564; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 468 1038 1195 1195">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 468 1038 1195 1195">
+     <span class='ocr_line' id='line_1_1' title="bbox 597 1038 1062 1074; baseline 0.004 -10"><span class='ocrx_word' id='word_1_1' title='bbox 597 1039 742 1065; x_wconf 83' lang='lat' dir='ltr'>HENRY</span> <span class='ocrx_word' id='word_1_2' title='bbox 768 1038 955 1074; x_wconf 88' lang='lat' dir='ltr'>FROWDE,</span> <span class='ocrx_word' id='word_1_3' title='bbox 981 1039 1062 1066; x_wconf 86' lang='grc' dir='ltr'>Μ.Α.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 468 1105 1195 1128; baseline 0 -3"><span class='ocrx_word' id='word_1_4' title='bbox 468 1105 643 1128; x_wconf 70' lang='grc' dir='ltr'>ΡυΒιιςι-ιεκ</span> <span class='ocrx_word' id='word_1_5' title='bbox 662 1106 701 1126; x_wconf 85' lang='grc' dir='ltr'>το</span> <span class='ocrx_word' id='word_1_6' title='bbox 717 1106 786 1126; x_wconf 80' lang='lat' dir='ltr'>THE</span> <span class='ocrx_word' id='word_1_7' title='bbox 804 1105 997 1126; x_wconf 70' lang='lat' dir='ltr'>umvznsrrv</span> <span class='ocrx_word' id='word_1_8' title='bbox 1014 1105 1054 1125; x_wconf 74' lang='lat' dir='ltr'>or·-</span> <span class='ocrx_word' id='word_1_9' title='bbox 1071 1105 1195 1126; x_wconf 67' lang='lat' dir='ltr'>oxroxm</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 624 1164 1036 1195; baseline 0 -8"><span class='ocrx_word' id='word_1_10' title='bbox 624 1164 788 1195; x_wconf 76' lang='lat' dir='ltr'>LONDON,</span> <span class='ocrx_word' id='word_1_11' title='bbox 815 1164 1036 1187; x_wconf 83' lang='lat' dir='ltr'>EDINBURGH</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 723 1230 933 1254">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 723 1230 933 1254">
+     <span class='ocr_line' id='line_1_4' title="bbox 723 1230 933 1254; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 723 1231 807 1254; x_wconf 80' lang='lat' dir='ltr'>NEw</span> <span class='ocrx_word' id='word_1_13' title='bbox 834 1230 933 1254; x_wconf 76' lang='lat' dir='ltr'>YORK</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
